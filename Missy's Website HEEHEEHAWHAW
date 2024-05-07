@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>Missy's Memory Bears</title>
+		<style>
+			body
+			{
+			background-color:azure;
+			color:midnightblue;
+			font-family: 'Trebuchet MS', sans-serif;
+			}
+		</style>
+	</head>	
+	<body>
+		<h1>Memory Bears</h1>
+		<br>
+<!-- I will add changes if you don't like this-->
+		<img src="images/snake_snaks.jpeg" width="744" height="1027">
+		<p>HEEHEEHAWHAW!!!!!!!!!!! Memory Bears are cute and cuddly 
+		because they have a soft squish and they are amazingly cute.
+		 You'll see... These unique memory bears have CA badges on 
+		them to prove their loyalty to CA. GO VIKES!</p>
+	</body>
+
+	<h1>
+</html>
